@@ -28,8 +28,8 @@
 package x448
 
 import (
-	"gitlab.com/yawning/x448.git/internal/field"
-	_ "gitlab.com/yawning/x448.git/internal/toolchain"
+	"github.com/van-scott/x448/internal/field"
+	_ "github.com/van-scott/x448/internal/toolchain"
 )
 
 const (
